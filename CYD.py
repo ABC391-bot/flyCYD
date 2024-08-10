@@ -1,5 +1,4 @@
-'我的主页'
-'我的主页'
+
 import streamlit as st
 import time
 from PIL import Image
